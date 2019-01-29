@@ -1,3 +1,3 @@
 #Leaders
-John Henry Hopkins
-Flanders McNeedlesnips
+ John Henry Hopkins
+ Flanders McNeedlesnips
