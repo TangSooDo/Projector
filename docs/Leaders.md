@@ -1,3 +1,4 @@
 # Leaders
- John Henry Hopkins<p>
- Flanders McNeedlesnips
+|John Henry Hopkins   | Email@email.org  |
+|---|---|
+|Flanders McNeedlesnips   | Email@email.org  |
