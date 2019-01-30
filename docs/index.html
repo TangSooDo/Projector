@@ -13,8 +13,10 @@ name: Projector
     </div>
   </section>
   <section id="Leaders">
+    <h3>Leaders</h3>
+    <hr/>
     {% for leader in site.data.leaders %}
-      {{ leader.Name }}, {{ leader.Email }}
+      {{ leader.Name }}, {{ leader.Email }} <br>
     {% endfor %}
   </section>
 </body>
