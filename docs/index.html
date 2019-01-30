@@ -13,6 +13,8 @@ name: Projector
     </div>
   </section>
   <section id="Leaders">
-    Read in some json to display the leaders
+    {%for leader in site.data.leaders%}
+      {{leader.name, leader.email}}
+    {%endfor%}
   </section>
 </body>
