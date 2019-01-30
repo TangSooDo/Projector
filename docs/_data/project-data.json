@@ -1,0 +1,15 @@
+{
+  "name":"TSD Projector",
+  "purpose":"In-depth shade throwing tutorial",
+  "license":"Apache License 2.0",
+  "releases":[{
+              "version":"3.0",
+              "description":"added half-shade options" },
+              {
+                "version":"2.0",
+                "description":"better technique with more hip" },
+              {
+                "version":"1.0",
+                "description":"first version"}]
+}
+  
