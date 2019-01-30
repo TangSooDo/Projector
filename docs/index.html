@@ -13,8 +13,8 @@ name: Projector
     </div>
   </section>
   <section id="Leaders">
-    {%for leader in site.data.leaders%}
-      {{leader.Name, leader.Email}}
-    {%endfor%}
+    {% for leader in site.data.leaders %}
+      {{ leader.Name }}, {{ leader.Email }}
+    {% endfor %}
   </section>
 </body>
