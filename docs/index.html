@@ -26,7 +26,7 @@ name: Projector
     <p>License: {{ site.data.project-data.license }}</p>
     <div>Releases:</div>
     <div style="margin-left:24px;float:left;">
-      {% for release in site.data.releases %}
+      {% for release in site.data.project-data.releases %}
       Version: {{ release.version }}<br>
       Description: {{ release.description }}<br>
       {% endfor %}
