@@ -19,4 +19,16 @@ name: Projector
       {{ leader.Name }}, {{ leader.Email }} <br>
     {% endfor %}
   </section>
+  <hr/>
+  <section id="Project About">
+    <h3 Project About</h3>
+    <hr/>
+    <p>License: {{ site.data.project-data.license }}</p>
+    <div>Releases:</div>
+    <div style="margin-left:24px;float:left;">
+      {{% for release in site.data.project-data.releases % }}
+      Version: {{ release.version }}<br>
+      Description: {{ release.description }}<br>
+    </div>
+  </section>
 </body>
