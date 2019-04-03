@@ -23,7 +23,6 @@ div {
 }
 
 .header a.logo {
-    font-size: 25px;
     font-weight: bold;
 }
 
@@ -47,7 +46,6 @@ img.logo {
 }
 
 .header-right input[type=text] {
-    padding: 10px;
     font-size: 17px;
     border: 1px solid grey;
     float: left;
@@ -57,9 +55,8 @@ img.logo {
   
 .header-right button {
     float: left;
-    width: 20%;
-    padding: 10px;
-    background: #2196F3;
+    width: 20%;    
+    background: #7baac2;
     color: white;
     font-size: 17px;
     border: 1px solid grey;
