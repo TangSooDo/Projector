@@ -48,11 +48,12 @@ img.logo {
 }
 
 .header-right input[type=text] {
-    font-size: 25px;
+    font-size: 22px;
+    border: none;
     border-left: 1px solid gray;
     float: left;
     width: 80%;
-    background: #f1f1f1;
+    background:white;
 }
   
 .header-right button {
@@ -61,7 +62,7 @@ img.logo {
     background: white;
     color: black;
     font-size: 25px;
-    border: 0 0 0;    
+    border: none;    
     cursor: pointer;
 }
   
