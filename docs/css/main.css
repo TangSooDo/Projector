@@ -1,6 +1,9 @@
 html {}
 body {}
 
+.header {
+    
+}
 .topnav {
     background-color: #7baac2;
     overflow: hidden;
@@ -22,7 +25,10 @@ body {}
 }
 
 .active {
-    background-color: d7e2eb;
+    background-color: d7e2eb;    
+}
+
+.active a{
     color: black !important;
 }
 
