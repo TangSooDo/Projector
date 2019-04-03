@@ -27,7 +27,7 @@ div {
 }
 
 img.logo {
-    max-width:1em;
+    max-width:3em;
 }
 
 .header-right {
@@ -54,7 +54,7 @@ img.logo {
 .topnav a {
     float: left;
     display: block;
-    color: #f2f2f2;
+    color: #fff;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -67,7 +67,8 @@ img.logo {
 }
 
 .active {
-    background-color: 2e6b80;    
+    background-color: 2e6b80; 
+    color: black !important;   
 }
 
 .topnav .icon {
