@@ -26,7 +26,7 @@ div {
     font-weight: bold;
 }
 
-.header a img {
+img.logo {
     max-width:1em;
 }
 
