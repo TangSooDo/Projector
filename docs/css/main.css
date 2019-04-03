@@ -23,7 +23,7 @@ body {}
 
 .active {
     background-color: d7e2eb;
-    color: black;
+    color: black !important;
 }
 
 .topnav .icon {
