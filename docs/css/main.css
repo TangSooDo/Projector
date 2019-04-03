@@ -10,7 +10,8 @@ div {
 
 .header {
     overflow: hidden;
-    background-color:#fff;    
+    background-color:#fff;
+    border-bottom: 1px solid grey;    
 }
 
 .header a {
