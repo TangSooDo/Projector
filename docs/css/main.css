@@ -28,6 +28,7 @@ div {
 
 img.logo {
     max-width:125px;
+    padding-bottom: 4px;
 }
 
 .header-right {
