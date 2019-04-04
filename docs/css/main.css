@@ -160,45 +160,40 @@ img.logo {
     opacity: 0.4;
 }
 
-@media (min-width: 320px) {
-    .hero::before {
-    background-image: url(../media/owasp_cover_photo.png);
-    }
-}
     
 @media (min-width: 460px) {
     .hero::before {
-    background-image: url(../media/owasp_cover_photo.png);
+    background-image: url(../media/owasp_cover_photo_640.png);
     }
 }
     
 @media (min-width: 720px) {
     .hero::before {
-    background-image: url(../media/owasp_cover_photo.png);
+    background-image: url(../media/owasp_cover_photo_800.png);
     }
 }
     
 @media (min-width: 980px) {
     .hero::before {
-    background-image: url(../media/owasp_cover_photo.png);
+    background-image: url(../media/owasp_cover_photo_1080.png);
     }
 }
     
 @media (min-width: 1240px) {
     .hero::before {
-    background-image: url(../media/owasp_cover_photo.png);
+    background-image: url(../media/owasp_cover_photo_1280.png);
     }
 }
    
 @media (min-width: 1500px) {
     .hero::before {
-    background-image: url(../media/owasp_cover_photo.png);
+    background-image: url(../media/owasp_cover_photo_1600.png);
     }
 }
     
 @media (min-width: 1760px) {
     .hero::before {
-    background-image: url(../media/owasp_cover_photo.png);
+    background-image: url(../media/owasp_cover_photo_1920.png);
     }
 }
 
@@ -225,7 +220,7 @@ img.logo {
     min-width: 100%;
     min-height: 12em;
     z-index: -1;
-    opacity: 0.4;
+    opacity: 0.8;
     background-color: #343a40;
 }
 
@@ -238,5 +233,4 @@ img.logo {
 
 .hero-title {
     margin: 3% 0;
-    text-transform: uppercase;
 }
