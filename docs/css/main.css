@@ -209,8 +209,7 @@ img.logo {
 }
 
 .hero-message {
-        color: #fff;
-        text-shadow: #343a40 2px 2px;
+        color: #000;        
         min-width: 100%;
         min-height: 12em;
         position: relative;
@@ -244,8 +243,8 @@ img.logo {
 }
 
 .hero-paragraph{
-    text-shadow: none;
-    font-size:1em;
-    text-align:left;
+    font-size: 1em;    
+    text-align: left;
     margin-left:10%;
+    text-justify: justify;
 }
