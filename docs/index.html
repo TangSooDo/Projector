@@ -31,8 +31,9 @@ name: The OWASP Foundation
   </div>
   <section id="URLS">
     <hr/>
+    {% site.github %}
     {% for repository in site.github.public_repositories %}
-      <a href=https://tangsoodo.github.io/{{repository.name }}>{{ repository.name }}</a>            
+      <a href=https://tangsoodo.github.io/{{repository.name }}>{{ repository.name }}</a><br>            
     {% endfor %}
   </section>
   <hr/>
