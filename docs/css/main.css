@@ -170,7 +170,7 @@ img.logo {
     }
 }
 */   
-@media (min-width: 980px) {
+@media screen and (max-width: 1024px) {
     .hero::before {
     background-image: url(../media/owasp_cover_photo_800.png);
     }
@@ -262,4 +262,10 @@ img.logo {
     text-align: left;
     margin-left: 10%;
     text-justify: justify;
+}
+
+@media screen and (max-width: 1024px) {
+    .hero-message::before {
+        display:hidden;
+    }
 }
