@@ -1,0 +1,10 @@
+---
+layout: default
+title: OWASP Foundation Projects
+---
+<section id="Projects">
+    <hr/>
+    {% for project in site.data.projects %}
+        <a href={{project.url}}>{{project.name}}</a>
+    {% endfor %}
+</section>

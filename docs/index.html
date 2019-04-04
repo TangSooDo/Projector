@@ -1,6 +1,6 @@
 ---
 layout: default
-name: The OWASP Foundation
+title: The OWASP Foundation
 ---
     
   <div class="hero flex-center">
@@ -17,13 +17,8 @@ name: The OWASP Foundation
       <a href=https://tangsoodo.github.io/{{repository.name }}>{{ repository.name }}</a><br/> 
     {% endfor %}
   </section>
-  <section id="Projects">
-    <hr/>
-    {% for project in site.data.projects %}
-      <a href={{project.url}}>{{project.name}}</a>
-    {% endfor %}
-  </section>
-  <hr/>
+  
+  <!-- <hr/>
   <section id="Project About">
     <h3>Project About</h3>
     <hr/>
@@ -35,4 +30,4 @@ name: The OWASP Foundation
       Description: {{ release.description }}<br>
       {% endfor %}
     </div>
-  </section>
+  </section> -->
