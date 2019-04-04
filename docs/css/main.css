@@ -147,7 +147,7 @@ img.logo {
 }
 
 .hero::before {
-    background-image: url(../media/owasp_cover_photo_1600.png);
+    background-image: url(../media/owasp_cover_photo_blend.png);
     background-size: cover;
     content: "";
     display: block;
