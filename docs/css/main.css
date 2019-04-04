@@ -167,13 +167,13 @@ img.logo {
     background-image: url(../media/owasp_cover_photo_640.png);
     }
 }
-    
+*/   
 @media (min-width: 980px) {
     .hero::before {
     background-image: url(../media/owasp_cover_photo_800.png);
     }
 }
-    
+/*  
 @media (min-width: 1240px) {
     .hero::before {
     background-image: url(../media/owasp_cover_photo_1080.png);
