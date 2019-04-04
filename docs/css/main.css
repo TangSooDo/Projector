@@ -229,18 +229,6 @@ img.logo {
     background-color: #343a40;
 }
 
-@media(min-width:1024px) {
-    .hero-message {
-    min-width: 50%;
-    min-height: 12em;
-    }
-    .hero-message::before {
-    margin-left: 25%;
-    min-width: 50%;
-    min-height: 12em;
-    }
-}
-
 .hero-title,
 .hero-sub-title {
     width: 100%;
