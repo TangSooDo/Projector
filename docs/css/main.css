@@ -243,8 +243,9 @@ img.logo {
 }
 
 .hero-paragraph{
-    font-size: 1em;    
+    font-size: 1em;  
+    font-weight: bold;  
     text-align: left;
-    margin-left:10%;
+    margin-left: 10%;
     text-justify: justify;
 }
