@@ -2,7 +2,8 @@ html {}
 
 body {
     margin: 0;
-    max-width:80%;
+    margin-left:10%;
+    margin-right:10%;
 }
 
 div {
