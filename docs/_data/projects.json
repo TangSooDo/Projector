@@ -1,8 +1,6 @@
 [
-{ project: 
-  { name:Detroit Chapter
-    repo-name:Detroit-Chapter
+{ name:Detroit Chapter,
+    repo-name:Detroit-Chapter,
     url:https://tangsoodo.github.io/Detroit-Chapter }
-}
 ]
       
