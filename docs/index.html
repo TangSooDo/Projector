@@ -32,7 +32,7 @@ name: The OWASP Foundation
   <section id="URLS">
     <hr/>
     {% for repository in site.github.public_repositories %}
-      <a href=https://tangsoodo.github.io/{{ repository.name }}>{{ repository.data.project-data.name }}</a>      
+      <a href=https://tangsoodo.github.io/{{ repository.name }}>{{ repository.site.data.project-data.name }}</a>      
     {% endfor %}
   </section>
   <hr/>
