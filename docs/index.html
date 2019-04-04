@@ -30,11 +30,15 @@ name: The OWASP Foundation
     </div>
   </div>
   <section id="URLS">
-    <hr/>  
+    <hr/>
     {% for repository in site.github.public_repositories %}
-      <a href=https://tangsoodo.github.io/{{repository.name }}>{{ repository.data.project-data.name }}</a><br/> 
-      <a href=https://tangsoodo.github.io/{{repository.name }}>{{ repository.project-data.name }}</a><br/>            
-      <a href=https://tangsoodo.github.io/{{repository.name }}>{{ repository.site.data.project-data.name }}</a><br/> 
+      <a href=https://tangsoodo.github.io/{{repository.name }}>{{ repository.name }}</a><br/> 
+    {% endfor %}
+  </section>
+  <section id="Projects">
+    <hr/>
+    {% for project in site.data.projects %}
+      <a href={{project.url}}>{{project.name}}</a>
     {% endfor %}
   </section>
   <hr/>
