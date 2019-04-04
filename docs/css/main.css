@@ -247,6 +247,7 @@ img.logo {
     color:darkslategray;  
     width:100%;
     background:lightgray;  
+    min-height: 68px;
 }
 
 .footer a{
