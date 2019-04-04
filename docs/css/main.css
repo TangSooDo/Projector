@@ -243,11 +243,10 @@ img.logo {
 
 .footer img{
     max-width:25px;
-}
-
-.footer a{
+    padding-left:4px;    
     margin-top:4px;
 }
+
 
 .hero-title {
     margin: 3% 0;
