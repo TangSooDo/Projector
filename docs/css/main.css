@@ -1,7 +1,10 @@
 html {}
+
 body {
     margin: 0;
+    max-width:80%;
 }
+
 div {
     font-size: 1rem;
 }
@@ -32,13 +35,14 @@ div {
 img.logo {
     max-width:125px;
     padding-top: 4px;
+    margin-left: 4px;
 }
 
 .header-right {
     float: right;
 }
   
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 600px) {
     .header a {
       float: none;
       display: block;
@@ -46,6 +50,10 @@ img.logo {
     }
     .header-right {
       float: none;
+    }
+
+    body{
+        max-width: 100%;
     }
 }
 
