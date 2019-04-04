@@ -243,4 +243,7 @@ img.logo {
 
 .hero-paragraph{
     max-width: 60%;
+    color:black;
+    text-shadow: none;
+    font-size:1em;
 }
