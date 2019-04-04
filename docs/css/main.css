@@ -241,6 +241,10 @@ img.logo {
     color:darkslategray;    
 }
 
+.footer a{
+    text-decoration: none;
+}
+
 .footer img{
     max-width:25px;
     padding-left:4px;    
