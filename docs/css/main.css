@@ -107,10 +107,10 @@ img.logo {
     color: black;
 }
 
-.active {
+/* .active {
     background-color: #2e6b80; 
     color: black !important;   
-}
+} */
 
 .topnav .icon {
     display: none;
