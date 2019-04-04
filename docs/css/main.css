@@ -240,3 +240,7 @@ img.logo {
 .hero-title {
     margin: 3% 0;
 }
+
+.hero-paragraph{
+    max-width: 60%;
+}
