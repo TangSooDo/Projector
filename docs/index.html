@@ -29,19 +29,10 @@ name: The OWASP Foundation
       <h2 class="hero-sub-title">Flagship Project</h2>
     </div>
   </div>
-  <section id="description">
-    <div>
-      <p>
-      Here at the dojang, we like to throw all sorts of things: knives, staves, swords, other people, and, yes, shade!
-      What's the best method of throwing shade, you ask?  Well, sit back and prepare to learn how the dan members do it.
-      </p>
-    </div>
-  </section>
-  <section id="Leaders">
-    <h3>Leaders</h3>
+  <section id="URLS">
     <hr/>
-    {% for leader in site.data.leaders %}
-      {{ leader.Name }}, {{ leader.Email }} <br>
+    {% for repository in site.github.public_repositories %}
+      <a href=https://tangsoodo.github.io/{{ repository.name }}>{{ repository.data.project-data.name }}</a>      
     {% endfor %}
   </section>
   <hr/>
