@@ -162,7 +162,7 @@ img.logo {
 
     
     
-@media (min-width: 720px) {
+/* @media (min-width: 720px) {
     .hero::before {
     background-image: url(../media/owasp_cover_photo_640.png);
     }
@@ -190,7 +190,7 @@ img.logo {
     .hero::before {
     background-image: url(../media/owasp_cover_photo_1600.png);
     }
-}
+} */
 
 .flex-center {
         display: flex;
