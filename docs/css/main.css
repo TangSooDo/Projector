@@ -208,11 +208,19 @@ img.logo {
     align-content: left;
 }
 
+.hero-div {
+    width:50%;
+}
+
 .hero-message {
-        color: #fff;        
-        min-width: 100%;
-        min-height: 12em;
-        position: relative;
+    color: #fff;        
+    min-width: 100%;
+    min-height: 12em;
+    position: relative;
+}
+
+.hero-message h1 {
+    margin-top:-6px;
 }
 
 .hero-message::before {
