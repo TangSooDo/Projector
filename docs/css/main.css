@@ -87,8 +87,6 @@ img.logo {
     background: #0b7dda;
 }
   
-  
-
 .topnav {
     background-color: #7baac2;
     overflow: hidden;
@@ -246,7 +244,9 @@ img.logo {
     display: block;
     border-top: 1px solid gray;
     font-weight:lighter;
-    color:darkslategray;    
+    color:darkslategray;  
+    width:100%;
+    background:lightgray;  
 }
 
 .footer a{
@@ -258,7 +258,6 @@ img.logo {
     padding-left:4px;    
     margin-top:4px;
 }
-
 
 .hero-title {
     margin: 3% 0;
