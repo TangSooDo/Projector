@@ -2,8 +2,8 @@ html {}
 
 body {
     margin: 0;
-    margin-left:10%;
-    margin-right:10%;
+    margin-left:5%;
+    margin-right:5%;
 }
 
 div {
@@ -34,7 +34,7 @@ div {
 }
 
 img.logo {
-    max-width:125px;
+    max-width:250px;
     padding-top: 4px;
     margin-left: 4px;
 }
