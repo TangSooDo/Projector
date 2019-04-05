@@ -17,6 +17,10 @@
       <a href="projects.html">Projects</a>
       <a href="#contact">Contact</a>
       <a href="#about">About</a>
+      <!-- Dyamically build menus? In production this would be a submenu of Projects or Chapters-->
+      {% for project in site.data.projects %}
+        <a href={{project.url}}>{{project.name}}</a>
+      {% endfor %}
     </div>
 </div>
 
