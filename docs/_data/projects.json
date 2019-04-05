@@ -1,6 +1,19 @@
 [
-{ "name":"Detroit Chapter",
+{ "name":"Detroit",
     "repo-name":"Detroit-Chapter",
-    "url":"https://tangsoodo.github.io/Detroit-Chapter" }
+    "url":"https://tangsoodo.github.io/Detroit-Chapter",
+    "geo":"North America",
+    "country":"United States",
+    "meetup":"https://www.meetup.com/OWASP-Detroit-Chapter/"}
+{ "name":"KC",
+    "repo-name":"Detroit-Chapter",
+    "url":"https://tangsoodo.github.io/Detroit-Chapter",
+    "geo":"North America",
+    "country":"United States"}
+{ "name":"Amsterdam",
+    "repo-name":"Detroit-Chapter",
+    "url":"https://tangsoodo.github.io/Detroit-Chapter",
+        "geo":"Europe",
+        "country":"Netherlands"}
 ]
       
