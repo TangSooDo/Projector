@@ -241,4 +241,12 @@ img.logo {
     margin-top:4px;
 }
 
+.Site  {
+    display:flex;
+    max-width:100vh;
+    flex-direction:column;
+}
 
+.Site-content {
+    flex: 1;
+}
