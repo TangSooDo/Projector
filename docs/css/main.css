@@ -92,14 +92,14 @@ img.logo {
 
 /* Navigation Styles */
 .topnav {
-    background-color: #7baac2;
+    background-color: #fff;
     overflow: hidden;
 }
 
 .topnav a {
     float: left;
     display: block;
-    color: #fff;
+    color: #black;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
