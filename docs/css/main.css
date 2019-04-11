@@ -254,3 +254,22 @@ img.logo {
 .Site-content {
     flex: 1;
 }
+
+.highlight-container{
+    margin:auto;
+    text-align:center;
+    width:100%;
+}
+
+.highlight{
+    display:inline-block;
+    width:315px;
+    margin-top:8px;
+    margin-bottom:8px;
+}
+
+.highlight-text{
+    margin:auto;
+    text-align:center;
+    font-weight: bold;
+}
