@@ -263,7 +263,8 @@ img.logo {
 
 .highlight{
     display:inline-block;
-    width:315px;
+    max-width:315px;
+    height:auto;
     margin-top:12px;
     margin-bottom:12px;
 }
