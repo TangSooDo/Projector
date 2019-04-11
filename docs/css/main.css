@@ -233,6 +233,8 @@ img.logo {
     width:100%;
     background:lightgray;  
     min-height: 68px;
+    max-height: 68px;
+    line-height: 68px;
 }
 
 .footer a{
