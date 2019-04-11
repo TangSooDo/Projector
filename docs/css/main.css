@@ -280,7 +280,7 @@ img.logo {
     font-weight: bold;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 1080px) {
     .highlight{
         max-width:250px;
         margin-left:6px;
