@@ -274,3 +274,7 @@ img.logo {
     text-align:center;
     font-weight: bold;
 }
+
+.constrain-twenty{
+    width:20%;
+}
