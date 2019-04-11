@@ -94,6 +94,7 @@ img.logo {
 .topnav {
     background-color: #fff;
     overflow: hidden;
+    display:inline-block;
 }
 
 .topnav a {
