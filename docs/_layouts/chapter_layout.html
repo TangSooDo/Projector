@@ -1,0 +1,14 @@
+{% include precontent.html %}
+{% if 'media/chapter_banner.png' in site.static_files %}
+<div class="ch-banner">
+    <img src="media/chapter_banner.png"/>
+</div>
+{% elsif 'media/chapter_logo.png' in site.static_files %}
+<div class="ch-logo">
+    <img src="media/chapter_logo.png"/>
+</div>
+{% endif %}
+    <main class="Site-content">
+    {{ content }}
+    </main>
+{% include postcontent.html %}
