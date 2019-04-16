@@ -1,2 +1,4 @@
 layouts_dir: layouts
 includes_dir: includes
+
+theme: jekyll-theme-slate
