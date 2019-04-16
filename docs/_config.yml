@@ -1,2 +1,4 @@
-remote_theme:TangSooDo/Owasp-Site-Theme
+#remote_theme:TangSooDo/Owasp-Site-Theme
 #remote_theme:mmistakes/minimal-mistakes
+layouts_dir: layouts
+includes_dir: includes
