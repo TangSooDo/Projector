@@ -1,7 +1,5 @@
-plugins:
-  - jekyll-remote-theme
-  
 remote_theme:TangSooDo/Owasp-Site-Theme
+
 #layouts_dir: layouts
 #includes_dir: includes
 
