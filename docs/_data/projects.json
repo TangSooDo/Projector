@@ -1,6 +1,9 @@
 [
-{ "name":"Detroit Chapter",
-    "repo-name":"Detroit-Chapter",
-    "url":"https://tangsoodo.github.io/Detroit-Chapter" }
+{ "name":"Test Chapter Two",
+    "repo-name":"Test-Chapter-Two",
+    "url":"https://tangsoodo.github.io/Test-Chapter-Two" },
+{ "name":"Test Chapter",
+    "repo-name":"test-chapter",
+    "url":"https://tangsoodo.github.io/test-chapter"}
 ]
       
