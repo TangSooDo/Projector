@@ -1,4 +1,5 @@
 remote_theme: "TangSooDo/Owasp-Site-Theme"
+permalink: /projects
 plugins:
  - jekyll-include-cache
       
